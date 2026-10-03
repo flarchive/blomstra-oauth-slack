@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of blomstra/oauth-slack.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/oauth-slack) or the [upstream repository](https://github.com/blomstra/flarum-ext-oauth-slack).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/blomstra-oauth-slack/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.3.1`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/blomstra-oauth-slack/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.3.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-06-14 | `^1.3.1` | [Browse](https://github.com/flarchive/blomstra-oauth-slack/tree/archive/v0.1.0) |
+| `0.1.1` | 2022-11-16 | `^1.3.1` | [Browse](https://github.com/flarchive/blomstra-oauth-slack/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/blomstra-oauth-slack.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-oauth-slack.json)
 
